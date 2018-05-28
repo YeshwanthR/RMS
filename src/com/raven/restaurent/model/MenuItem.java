@@ -1,5 +1,5 @@
 package com.raven.restaurent.model;
-
+//Menu Item Class
 class MenuItem {
 	String menu_item;
 	String name;
